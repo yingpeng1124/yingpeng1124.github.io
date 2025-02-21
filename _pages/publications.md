@@ -13,7 +13,7 @@ author_profile: true
 ### - Journal papers
 
 1. **Quasi-Metric Learning for Bilateral Person-Job Fit**,  
-<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu.   
+**<mark>Yingpeng Du</mark>**, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu.   
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TMAPI**, CCF A, IF:), 2025.
 
 2. **Sequential ensemble learning for next item recommendation**,   
