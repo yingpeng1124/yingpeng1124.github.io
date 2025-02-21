@@ -17,7 +17,6 @@ I received my B.E. degree from School of Mathematics, Sichuan University (SCU), 
 
 Welcome to see my publications, academic services, experience, and honors & awards, and welcome to reach out for collaboration! You may approach me at:
 
-Office: 45-611, 51 Vassar St, Cambridge, MA 02139
 E-mail: dyp1993 [at] pku [dot] edu [dot] cn
 
 ## 💡 Research Interests
