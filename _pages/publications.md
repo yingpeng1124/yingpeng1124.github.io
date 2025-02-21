@@ -14,19 +14,19 @@ author_profile: true
 
 1. **Quasi-Metric Learning for Bilateral Person-Job Fit**,  
 **<mark>Yingpeng Du</mark>**, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu.   
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TMAPI**, CCF A, IF:), 2025.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TMAPI**, CCF A, IF: 20.8), 2025.
 
 2. **Sequential ensemble learning for next item recommendation**,   
 **<mark>Yingpeng Du</mark>**, Hongzhi Liu, Yang Song, Zekai Wang, Zhonghai Wu.
-*Knowledge-Based Systems* (**KBS**, CCF C, IF: ), 2024.
+*Knowledge-Based Systems* (**KBS**, CCF C, IF: 7.2), 2024.
 
 3. **Generalized ambiguity decomposition for ranking ensemble learning**,   
 Hongzhi Liu $\ast$, <mark>**Yingpeng Du** $\ast$</mark>, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
-*Journal of Machine Learning Research* (**JMLR**, CCF A, IF: ), 2022.
+*Journal of Machine Learning Research* (**JMLR**, CCF A, IF: 4.3), 2022.
 
 4. **Aem: Attentional ensemble model for personalized classifier weight learning**,   
 Hongzhi Liu, **<mark>Yingpeng Du</mark>**, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
-**Pattern Recognition** (**PR**, CCF B, IF:), 2019.
+**Pattern Recognition** (**PR**, CCF B, IF: 7.5), 2019.
 
 
 ### - Conference papers
