@@ -21,10 +21,12 @@ Sept 2023 – April 2024, Singapore, Singapore
 **Data Analyst Intern**  
 Jun 2018 – Aug 2018, Shenzhen, China
 
-
+# Coming Soon.
+<!--
 Teaching
 ======
-- **Teaching Assistant**
+# Coming Soon.
+<!-- - **Teaching Assistant**
 -- IE2141 Systems Thinking and Dynamics  
 Sept 2020 - Nov 2022, NUS, Singapore
 - **Guest Lecturer**
@@ -53,3 +55,4 @@ Membership
 ======
 - Professional Member, [Association for Computing Machinery (ACM)](https://www.acm.org/), 1601 Broadway, 10th Floor, New York, NY 10019-7434, 2024-2025
 - Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-2024
+-->
