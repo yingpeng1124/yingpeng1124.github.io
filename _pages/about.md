@@ -8,46 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) (from SMU). I obtained my Ph.D. degree in Industrial Systems Engineering at National University of Singapore (NUS), in March 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
-
-I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization and decision-making challenges. My research has been featured in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *TNNLS*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and actively served as a Reviewer/PC Member for top-tier conferences, workshops, and journals, recognized with best reviewer awards.
-
-Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration! You may approach me at:
-* **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
-* **E-mail**: yiningma [at] mit [dot] edu
+Hi! My name is Du Yingpeng. I am a research fellow at [Nanyang Technological University](https://www.ntu.edu.sg/)'s [College of Computing and Data Science](https://www.ntu.edu.sg/computing), mentored by [Prof. Zhang Jie](https://personal.ntu.edu.sg/zhangj/). Before that, I obtained my Ph.D. degree in Software Engineering at Peking University (PKU), in July 2023, where I am advised by [Prof. Liu Hongzhi](https://www.ss.pku.edu.cn/teacherteam/teacherlist/2267-%E5%88%98%E5%AE%8F%E5%BF%97.html) and [Prof. Wu Zhonghai](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1669-%E5%90%B4%E4%B8%AD%E6%B5%B7.html). I received my M.S. degree in Computer Technology at Peking University (PKU), in July 2019, where I am advised by [Prof. Liu Hongzhi](https://www.ss.pku.edu.cn/teacherteam/teacherlist/2267-%E5%88%98%E5%AE%8F%E5%BF%97.html).
+I received my B.E. degree from School of Mathematics, Sichuan University (SCU), in June 2016. I have published more than 20 papers in top-tier journals and conferences, such as TPAMI, JMLR, Pattern Recognition, AAAI, SIGKDD, ICDM, IJCAI, and WWW.
 
 
-💡 Research Interests
------
-My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging real-world optimization problems (e.g., combinatorial optimization, discrete optimization, black-box optimization, mixed integer linear programming, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
 
-**Research Keywords**
-- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems
-- **Optimization**: Combinatorial Optimization, Black-Box Optimization, MILP
-- **Application**: Routing, Planning, Scheduling, Transportation, Autonomous Vehicles
 
-🎉 News
------
-* [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
-* [12/2024] One paper on L2Opt got accepted by AAAI'25 (Oral), where we propose ConfigX, a unified configuration agent that learns to boost diverse evolutionary algorithms.
-* [12/2024] We hosted an unofficial L2Opt workshop at NeurIPS 2024 ([see photos](https://www.linkedin.com/posts/yiningma_neurips2024-activity-7275701162157207552-jDEb?utm_source=share&utm_medium=member_ios))!
-* [12/2024] ✈️ I will be attending NeurIPS'24 in person. See you in Vancouver, Canada! 🇨🇦
-* [11/2024] One paper on L2Opt got accepted by KDD'25, where we propose a neural approach for optimizing diverse, high-quality solutions to Multi-Solution TSP (MSTSP).
-* [10/2024] I am selected as NeurIPS 2024 Top Reviewer (10%) for both main and DB track! 
-* [09/2024] One paper on L2Opt got accepted by NeurIPS'24, where we propose Proactive Infeasibility Prevention (PIP) to elevate neural solvers for complex VRP constraints.
-* [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
-* [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
-* [07/2024] I am selected as ICML 2024 Best Reviewer (< 3%)!
-* [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
-    <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
-</a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
-* [05/2024] One paper on L2Opt got accepted by KDD'24, where we propose a hierarchical neural solver for realistic TSPs under real-world customer distributions.
-* [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduce MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
-* [05/2024] Promoted to the Research Fellow in NTU.
-* [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information.
-* [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
-* [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
-* [02/2024] Successfully defended my PhD thesis at NUS 🎓!
+
+Welcome to see my publications, academic services, experience, and honors & awards, and welcome to reach out for collaboration! You may approach me at:
+
+Office: 45-611, 51 Vassar St, Cambridge, MA 02139
+E-mail: dyp1993 [at] pku [dot] edu [dot] cn
+
+## 💡 Research Interests
+
+My research focuses on recommender systems and ensemble learning (AI and data mining in computer science). I am interested in the problems of utilizing different kinds of information, e.g. sequential information and side information, and models to enhance the accuracy and stability of systems. Recently, I am interested in utilizing large language models to improve the effectiveness and efficiency of recommender systems. To this end, I mainly study the following topics: ambiguity decomposition theory, diversity learning, sequential pattern mining, graph representation, causal learning, reinforcement learning, large language model-based recommendation, etc.
+
+### Research Keywords
+**Recommender systems**：General recommendation, Sequential recommendation, context-aware recommendation, social recommendation, attribute-based recommendation, job recommendation, graph-based recommendation and etc. 
+
+**LLM-based recommendation**: Effectiveness and efficiency issues in recomemnder systems, e.g., self-reflection, text enhancement, knowledge distillation, and etc.
+
+**Ensemble learning**: Ambiguity decomposition theory, Ranking ensemble, Sequential ensemble, and etc.
+
+
 
 <br/>
 <br>
