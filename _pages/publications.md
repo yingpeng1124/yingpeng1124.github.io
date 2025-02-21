@@ -21,7 +21,7 @@ author_profile: true
 *Knowledge-Based Systems* (**KBS**, CCF C, IF: 7.2), 2024.
 
 3. **Generalized ambiguity decomposition for ranking ensemble learning**,   
-Hongzhi Liu $\ast$, <mark>**Yingpeng Du** $\ast$</mark>, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
+Hongzhi Liu $\ast$, **<mark>Yingpeng Du $\ast$</mark>**, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
 *Journal of Machine Learning Research* (**JMLR**, CCF A, IF: 4.3), 2022.
 
 4. **Aem: Attentional ensemble model for personalized classifier weight learning**,   
