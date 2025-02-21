@@ -7,53 +7,103 @@ author_profile: true
 
 {% include base_path %}
 
-**$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
+**$\ast$ means equal contribution**
 
 
 ### - Journal papers
 
 1. **Quasi-Metric Learning for Bilateral Person-Job Fit**,  
-**Yingpeng Du**, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu.   
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TMAPI**), 2025.
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu.   
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TMAPI**, CCF A, IF:), 2025.
 
+2. **Sequential ensemble learning for next item recommendation**,   
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Yang Song, Zekai Wang, Zhonghai Wu.
+*Knowledge-Based Systems* (**KBS**, CCF C, IF: ), 2024.
+
+3. **Generalized ambiguity decomposition for ranking ensemble learning**,   
+Hongzhi Liu $\ast$, <mark>**Yingpeng Du** $\ast$</mark>, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
+*Journal of Machine Learning Research* (**JMLR**, CCF A, IF: ), 2022.
+
+4. **Aem: Attentional ensemble model for personalized classifier weight learning**,   
+Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu. (<mark>**Hongzhi Liu is my Ph.D supervisor.**</mark>)   
+**Pattern Recognition** (**PR**, CCF B, IF:), 2019.
 
 
 ### - Conference papers
 
 
 1. **Model-Agnostic Social Network Refinement with Diffusion Models for Robust Social Recommendation**,   
-Youchen Sun, Zhu Sun, **Yingpeng Du**, Jie Zhang and Yew-Soon Ong.   
-*The Web Conference* (**WWW**), 2025.
+Youchen Sun, Zhu Sun, <mark>**Yingpeng Du**</mark>, Jie Zhang and Yew-Soon Ong.   
+*The Web Conference* (**WWW**, CCF A), 2025.
 
 2. **Active Large Language Model-based Knowledge Distillation for Session-based Recommendation**,   
-**Yingpeng Du**, Zhu Sun, Ziyan Wang, Haoyan Chua, Jie Zhang and Yew-Soon Ong.   
-*The 39th Annual AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
+<mark>**Yingpeng Du**</mark>, Zhu Sun, Ziyan Wang, Haoyan Chua, Jie Zhang and Yew-Soon Ong.   
+*The 39th Annual AAAI Conference on Artificial Intelligence* (**AAAI**, CCF A), 2025.
 
 3. **Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**,   
-Ziyan Wang, **Yingpeng Du**$\dagger$, Zhu Sun, Haoyan Chua, Kaidong Feng, Wenya Wang and Jie Zhang.   
-*The 39th Annual AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
+Ziyan Wang, <mark>**Yingpeng Du** (**Corresponding author**) </mark>, Zhu Sun, Haoyan Chua, Kaidong Feng, Wenya Wang and Jie Zhang.   
+*The 39th Annual AAAI Conference on Artificial Intelligence* (**AAAI**, CCF A), 2025.
 
 4. **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,   
-**Yingpeng Du**, Ziyan Wang, Zhu Sun, Yining Ma, Hongzhi Liu and Jie Zhang.   
-*The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024.
+<mark>**Yingpeng Du**</mark>, Ziyan Wang, Zhu Sun, Yining Ma, Hongzhi Liu and Jie Zhang.   
+*The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**, CCF A), 2024.
 
 5. **Self-Supervised Denoising through Independent Cascade Graph Augmentation for Robust Social Recommendation**,   
-Youchen Sun, Zhu Sun, **Yingpeng Du**, Jie Zhang and Yew-Soon Ong.   
-*The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024.
+Youchen Sun, Zhu Sun, <mark>**Yingpeng Du**</mark>, Jie Zhang and Yew-Soon Ong.   
+*The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**, CCF A), 2024.
 
 6. **Unified Denoising Training for Recommendation**,   
-Haoyan Chua, **Yingpeng Du**$\dagger$, Zhu Sun, Ziyan Wang and Jie Zhang.   
-*The 18th ACM Recommender Systems Conference (**RecSys**)*, 2024.
+Haoyan Chua, <mark>**Yingpeng Du** (**Corresponding author**)</mark>, Zhu Sun, Ziyan Wang and Jie Zhang.   
+*The 18th ACM Recommender Systems Conference (**RecSys**, CCF B)*, 2024.
 
 7. **Enhancing Job Recommendation through LLM-based Generative Adversarial Networks**,   
-**Yingpeng Du**$\dagger$, Di Luo, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song and Jie Zhang.   
-*The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI**), 2024.
+<mark>**Yingpeng Du** (**Corresponding author**)</mark>, Di Luo, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song and Jie Zhang.   
+*The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI**, CCF A), 2024.
 
 8. **Bridging the information gap between domain-specific model and general llm for personalized recommendation**,   
-Wenxuan Zhang, Hongzhi Liu, Zhijin Dong, **Yingpeng Du**, Chen Zhu, Yang Song, Hengshu Zhu, Zhonghai Wu.   
-*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data*, 2024.
+Wenxuan Zhang, Hongzhi Liu, Zhijin Dong, <mark>**Yingpeng Du**</mark>, Chen Zhu, Yang Song, Hengshu Zhu, Zhonghai Wu.   
+*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data* (CCF C), 2024.
 
-9. 
+9. **Bilateral Sequential Hypergraph Convolution Network for Reciprocal Recommendation**,   
+Jiaxing Chen, Hongzhi Liu, Hongrui Guo, <mark>**Yingpeng Du**</mark>, Zekai Wang, Yang Song, Zhonghai Wu.
+*The 2023 IEEE International Conference on Data Mining* (**ICDM**, CCF B), 2024.
+
+10. **Sequential hypergraph convolution network for next item recommendation**,   
+Jiaxing Chen, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zekai Wang, Yang Song, Zhonghai Wu.   
+*International Conference on Database Systems for Advanced Applications* (**DASFAA, CCF B**), 2023.
+
+11. **$M^3$-IB: A Memory-Augment Multi-modal Information Bottleneck Model for Next-Item Recommendation**,   
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Zhonghai Wu.   
+*International Conference on Database Systems for Advanced Applications* (**DASFAA, CCF B**), 2022.
+
+12. **Modeling multi-factor and multi-faceted preferences over sequential networks for next item recommendation**,   
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Zhonghai Wu.   
+**Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference** (**ECML-PKDD, CCF B**), 2021.
+
+13. **Relation-aware neighborhood matching model for entity alignment**,   
+Yao Zhu, Hongzhi Liu, Zhonghai Wu, <mark>**Yingpeng Du**</mark>.   
+*The 35th Annual AAAI Conference on Artificial Intelligence* (**AAAI**, CCF A), 2021.
+
+14. **IFSpard: An information fusion-based framework for spam review detection**,   
+Yao Zhu, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu.   
+*Proceedings of the Web Conference* (**WWW**, CCF A), 2021.
+
+15. **Unified embedding model over heterogeneous information network for personalized recommendation**,   
+Zekai Wang, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu, Xing Zhang.   
+*Proceedings of the 28th international joint conference on artificial intelligence* (**IJCAI**)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -61,8 +111,8 @@ Wenxuan Zhang, Hongzhi Liu, Zhijin Dong, **Yingpeng Du**, Chen Zhu, Yang Song, H
 -> Pre-prints
 -----
 1. **Large Language Model with Graph Convolution for Recommendation**,   
-**Yingpeng Du**, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, Yining Ma, Jie Zhang, Youchen Sun.
+<mark>**Yingpeng Du**</mark>, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, Yining Ma, Jie Zhang, Youchen Sun.
 
 2. **A Survey on Efficient Solutions of Large Language Models for Recommendation**,   
-Haotian Wu, **Yingpeng Du** $\dagger$, Tianjun Wei Zhu Sun, Jie Zhang, Ong Yew Soon
+Haotian Wu, <mark>**Yingpeng Du**</mark> , Tianjun Wei Zhu Sun, Jie Zhang, Ong Yew Soon
 
