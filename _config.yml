@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yining MA"
+title                    : "Dr. Yingpeng DU"
 title_separator          : "-"
-name                     : &name "Yining MA"
-description              : &description "Postdoctoral Associate, MIT"
+name                     : &name "YYingpeng DU"
+description              : &description "Research Fellow, NTU"
 url                      : https://yining043.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yining043/yining043.github.io"
+repository               : "yingpeng1124/yingpeng1124.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yining MA (马一宁)"
+  name             : "Yingpeng DU (杜鹰鹏)"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Associate, MIT"
-  location         : "United States"
+  bio              : "Research Fellow, NTU"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en"
-  email            : "yiningma@mit.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yining-Ma-7"
+  googlescholar    : "https://scholar.google.com/citations?user=pqpqHHkAAAAJ&hl=zh-CN"
+  email            : "dyp1993@pku.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Yining-Ma-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yining043"
+  github           : #"yining043"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yiningma"
+  linkedin         : #"yiningma"
   orcid            : #"https://orcid.org/0000-0002-6639-8547"
   pinterest        :
   soundcloud       :
