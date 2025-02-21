@@ -6,20 +6,25 @@ author_profile: true
 ---
 
 {% include base_path %}
-- [Laboratory for Information and Decision Systems, MIT](https://lids.mit.edu/)  
-**Postdoctoral Associate**  
-Aug 2024 – Present, Cambridge, Massachusetts, United States
+
+### Nanyang Technological University (Full time)  2023.9~present
+Research fellow. 
+The main responsibilities include but are not limited to:
+1.	Conduct cutting-edge research on recommendation systems with advancing artificial intelligence and data mining techniques, actively contributing to academic discourse by presenting research at conferences and publishing in top-tier journals and conferences
+2.	 Manage and supervise Ph.D. students/candidates, guiding their research and academic development. Organize and participate in regular team meetings and brainstorming sessions, fostering collaboration and knowledge sharing within the research group.
+3.	Lead and manage research projects, including proposal writing, implementation, timeline management, and deliverable preparation.
+
+### Boss Zhipin (Internship)	2022.6~2023.8
+Research Interns. Research on online recruitment for bilateral recommender systems. 
 
 
-- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/)  
-**Research Fellow**  
-May 2024 – July 2024, Singapore, Singapore  
-**Project Officer**  
-Sept 2023 – April 2024, Singapore, Singapore
+### Tencent (Internship)	2019.6~2019.12
+Research Interns. Research on Information Retrieval for WeChat. 
 
-- [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
-**Data Analyst Intern**  
-Jun 2018 – Aug 2018, Shenzhen, China
+### Huatai Securities (Internship)	2017.5~2017.9
+Financial Innovation Department, Strategy Researcher of Summer Interns. Design and develop the multi-factor automated back-testing system for Quant.
+
+
 
 # Coming Soon.
 <!--
