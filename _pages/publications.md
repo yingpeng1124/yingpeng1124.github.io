@@ -90,7 +90,27 @@ Yao Zhu, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu.
 
 15. **Unified embedding model over heterogeneous information network for personalized recommendation**,   
 Zekai Wang, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu, Xing Zhang.   
-*Proceedings of the 28th international joint conference on artificial intelligence* (**IJCAI**)
+*Proceedings of the 28th international joint conference on artificial intelligence* (**IJCAI**, CCF A), 2019.
+
+16. **Hierarchical hybrid feature model for Top-N context-aware recommendation**,   
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Zhonghai Wu, Xing Zhang.   
+*2018 IEEE International Conference on Data Mining* (**ICDM**, CCF B), 2018.
+
+17. **Online personalized next-item recommendation via long short term preference learning**,   
+<mark>**Yingpeng Du**</mark>, Hongzhi Liu, Yuanhang Qu, Zhonghai Wu.   
+The 15th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**, CCF C), 2018.
+
+18. **Reciprocal ranking: A hybrid ranking algorithm for reciprocal recommendation**,   
+Yuanhang Qu, Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu.   
+The 15th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**, CCF C), 2018.
+
+19. **Collaborative Probability Metric Learning**,   
+Hongzhi Liu, <mark>**Yingpeng Du**</mark>, Zhonghai Wu.   
+Web and Big Data: Second International Joint Conference (**APWeb-WAIM**, CCF C), 2018.
+
+
+
+
 
 
 
