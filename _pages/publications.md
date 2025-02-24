@@ -115,5 +115,9 @@ Web and Big Data: Second International Joint Conference (**APWeb-WAIM**, CCF C),
 **<mark>Yingpeng Du</mark>**, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, Yining Ma, Jie Zhang, Youchen Sun.
 
 2. **A Survey on Efficient Solutions of Large Language Models for Recommendation**,   
-Haotian Wu, **<mark>Yingpeng Du</mark>** , Tianjun Wei Zhu Sun, Jie Zhang, Ong Yew Soon
+Haotian Wu, **<mark> Yingpeng Du (Corresponding author)</mark>** , Tianjun Wei Zhu Sun, Jie Zhang, Ong Yew Soon
+
+3. **Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**
+Hongxu Wang, Zhu Sun, **<mark> Yingpeng Du (Corresponding author)</mark>**, Lu Zhang, Tiantian He, Yew-Soon Ong
+
 
