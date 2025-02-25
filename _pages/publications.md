@@ -78,7 +78,7 @@ Jiaxing Chen, Hongzhi Liu, **<mark>Yingpeng Du</mark>**, Zekai Wang, Yang Song, 
 
 12. **Modeling multi-factor and multi-faceted preferences over sequential networks for next item recommendation**,   
 **<mark>Yingpeng Du</mark>**, Hongzhi Liu, Zhonghai Wu.   
-**Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference** (**ECML-PKDD**, CCF B), 2021.
+Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference (**ECML-PKDD**, CCF B), 2021.
 
 13. **Relation-aware neighborhood matching model for entity alignment**,   
 Yao Zhu, Hongzhi Liu, Zhonghai Wu, **<mark>Yingpeng Du</mark>**.   
