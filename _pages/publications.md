@@ -31,12 +31,12 @@ Hongzhi Liu, **<mark>Yingpeng Du</mark>**, Zhonghai Wu. (**<mark>Hongzhi Liu is 
 
 
 ### - Conference papers
-- **ONE-PASS: Single Forward Pass Decoding for Listwise Reranking**,   
-**<mark>Yingpeng Du</mark>**, Zhu Sun,  Tianjun Wei, Jie Zhang.   
+- **ONE-PASS: Single Forward Pass Decoding for Listwise Reranking**,<br>
+**<mark>Yingpeng Du</mark>**, Zhu Sun,  Tianjun Wei, Jie Zhang.<br>
 *The Web Conference* (**WWW**, CCF A), 2026.
 
-- **Dynamic Experts Synergy for Multi-Task Recommendation**,   
-Haotian Wu, **<mark> Yingpeng Du (Corresponding author)</mark>**, Zhu Sun, Jie Zhang, Puay Siew Tan.
+- **Dynamic Experts Synergy for Multi-Task Recommendation**,<br>
+Haotian Wu, **<mark> Yingpeng Du (Corresponding author)</mark>**, Zhu Sun, Jie Zhang, Puay Siew Tan.<br>
 *The Web Conference* (**WWW**, CCF A), 2026.
 
 - **Reinforcement Speculative Decoding for Fast Ranking**,   
