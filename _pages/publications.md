@@ -31,6 +31,14 @@ Hongzhi Liu, **<mark>Yingpeng Du</mark>**, Zhonghai Wu. (**<mark>Hongzhi Liu is 
 
 
 ### - Conference papers
+- **ONE-PASS: Single Forward Pass Decoding for Listwise Reranking**,   
+**<mark>Yingpeng Du</mark>**, Zhu Sun,  Tianjun Wei, Jie Zhang.   
+*The Web Conference* (**WWW**, CCF A), 2026.
+
+- **Dynamic Experts Synergy for Multi-Task Recommendation**,   
+Haotian Wu, **<mark> Yingpeng Du (Corresponding author)</mark>**, Zhu Sun, Jie Zhang, Puay Siew Tan.
+*The Web Conference* (**WWW**, CCF A), 2026.
+
 - **Reinforcement Speculative Decoding for Fast Ranking**,   
 **<mark>Yingpeng Du</mark>**, Tianjun Wei, Zhu Sun, Jie Zhang, Jiang Xun.   
 *The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**, CCF A), 2026.
